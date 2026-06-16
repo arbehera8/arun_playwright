@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5595","@smoke@regressionlogin","chrome","2026-06-15","passed","2026-06-15","testNew","TCcombine.spec.js","",""
+"","20780","@smokeregistration","chrome","2026-06-15","passed","2026-06-15","testNew","TCcombine.spec.js","",""
+"","7515","@smokeregistration","chromium","2026-06-15","passed","2026-06-15","testNew","TCcombine.spec.js","",""
+"","4556","@smoke@regressionlogin","chromium","2026-06-15","passed","2026-06-15","testNew","TCcombine.spec.js","",""
